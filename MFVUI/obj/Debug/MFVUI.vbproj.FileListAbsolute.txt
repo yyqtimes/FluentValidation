@@ -1,1 +1,0 @@
-E:\深联项目组\FluentValidation\MVVMAndFluentVadationDemo\MFVUI\bin\Debug\MFVUI.exe.config

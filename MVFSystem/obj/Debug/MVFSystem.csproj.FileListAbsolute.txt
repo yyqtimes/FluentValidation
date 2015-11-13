@@ -56,3 +56,6 @@ E:\深联项目组\FluentValidation\MVVMAndFluentVadationDemo\MVFSystem\bin\Debu
 E:\深联项目组\FluentValidation\MVVMAndFluentVadationDemo\MVFSystem\bin\Debug\Dapper.pdb
 E:\深联项目组\FluentValidation\MVVMAndFluentVadationDemo\MVFSystem\obj\Debug\WPFValidator.baml
 E:\深联项目组\FluentValidation\MVVMAndFluentVadationDemo\MVFSystem\obj\Debug\WPFValidator.g.cs
+E:\GitHubWork\MVVMAndFluentVadationDemo\MVFSystem\bin\Debug\MVFSystem.exe.config
+E:\GitHubWork\MVVMAndFluentVadationDemo\MVFSystem\obj\Debug\MVFSystem.exe
+E:\GitHubWork\MVVMAndFluentVadationDemo\MVFSystem\obj\Debug\MVFSystem.pdb
