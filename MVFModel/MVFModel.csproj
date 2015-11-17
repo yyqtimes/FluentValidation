@@ -50,6 +50,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BaseModel.cs" />
+    <Compile Include="ClassModel.cs" />
     <Compile Include="common\ValidateHelper.cs" />
     <Compile Include="common\ValidationResources.cs" />
     <Compile Include="ModelValidator\StudentValidator.cs" />
