@@ -59,3 +59,6 @@ E:\深联项目组\FluentValidation\MVVMAndFluentVadationDemo\MVFSystem\obj\Debu
 E:\GitHubWork\MVVMAndFluentVadationDemo\MVFSystem\bin\Debug\MVFSystem.exe.config
 E:\GitHubWork\MVVMAndFluentVadationDemo\MVFSystem\obj\Debug\MVFSystem.exe
 E:\GitHubWork\MVVMAndFluentVadationDemo\MVFSystem\obj\Debug\MVFSystem.pdb
+E:\GitHubWork\FluentValidation\MVFSystem\bin\Debug\MVFSystem.exe.config
+E:\GitHubWork\FluentValidation\MVFSystem\obj\Debug\MVFSystem.exe
+E:\GitHubWork\FluentValidation\MVFSystem\obj\Debug\MVFSystem.pdb

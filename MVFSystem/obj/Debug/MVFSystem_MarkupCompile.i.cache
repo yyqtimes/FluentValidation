@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-E:\GitHubWork\MVVMAndFluentVadationDemo\MVFSystem\obj\Debug\
+E:\GitHubWork\FluentValidation\MVFSystem\obj\Debug\
 MVFSystem
 none
 false
 DEBUG;TRACE
-E:\GitHubWork\MVVMAndFluentVadationDemo\MVFSystem\App.xaml
+E:\GitHubWork\FluentValidation\MVFSystem\App.xaml
 3859844099
 
 16300180087
-22-710238761
+22-542346247
 MainWindow.xaml;StudentForm.xaml;WPFValidator.xaml;
 
-False
+True
 
